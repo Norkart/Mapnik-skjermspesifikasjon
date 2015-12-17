@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg4764"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="turisthytte-B-24.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview11"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:zoom="16"
+     inkscape:cx="23.903277"
+     inkscape:cy="15.689182"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4764"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4766" />
+  <metadata
+     id="metadata4769">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4215"
+     transform="matrix(2,0,0,2,0,-0.0162937)">
+    <path
+       sodipodi:nodetypes="cccccccccccc"
+       d="m 1.9966362,1.0007003 c 0.00845,2.8357824 0.00336,5.6716427 0.00336,8.5074467 l -0.00212,0.5 8.5021188,0 0.499999,0.0021 c 0,0 -0.0039,-6.1758937 0.0034,-9.0032096 z m 1.0033641,1.0074465 6.9999992,0 0,7.0000002 -6.9999992,0 z"
+       inkscape:connector-curvature="0"
+       id="path17389"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       d="m 2.0011304,1.0081467 -0.00113,0.5 0,8.5039063 0.5,-0.0039 8.5039056,0 -0.0039,-0.5000005 0,-8.4960935 -0.500001,-0.00391 z M 3.0000003,9.008147 c -2.0000002,2 -1.0000001,1 0,0 z"
+       inkscape:connector-curvature="0"
+       id="rect11284-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#444444;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+  </g>
+  <rect
+     width="24"
+     height="24"
+     x="0"
+     y="0"
+     id="canvas"
+     style="visibility:hidden;fill:none;stroke:none" />
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'HAMMER AND PICK' (U+2692)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M115.5938 245.5312 L68.7656 198.1406 L42.75 224.4375 L14.9062 196.4531 L41.0625 170.1562 L34.5938 163.9688 L54 144.5625 L60.0469 150.75 L86.0625 124.5938 L113.7656 152.7188 L87.8906 178.875 L134.7188 226.125 L181.5469 179.0156 L155.6719 152.7188 L183.5156 124.5938 L209.3906 150.8906 L215.5781 144.5625 L234.7031 163.9688 L228.5156 170.1562 Q238.2188 186.0469 243.1406 241.7344 L200.8125 198.2812 L153.9844 245.6719 L179.0156 270.8438 L223.875 309.0938 L197.8594 335.1094 L159.8906 290.1094 L134.7188 264.7969 L109.6875 290.1094 L71.7188 335.1094 L45.8438 309.0938 L90.4219 270.8438 L115.5938 245.5312 Z" stroke="none" />
+    </g>
+  </g>
+</svg>
