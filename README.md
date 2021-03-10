@@ -23,7 +23,12 @@ The Mapnik xml file and symbols are found in the dist/mapnik-xml folder.
 Requirements:
 * PostGIS-database with N50 and N250 schemas as delivered by: http://data.kartverket.no
  * Use pg_restore to load data
-* Add indexes on all geometries
+* Add indexes on all geometries. The geometry column has different names for the different tables:
+  * Polygoner: omrade
+  * Senterlinjer: senterlinje
+  * Omriss: grense
+  * Punkter: posisjon
+  * Stedsnavn: geometri
 ```
 create index on n50.n50_arealdekkeflate using gist(geometri);
 create index on n50.n50_begrensningskurve using gist(geometri);
@@ -47,7 +52,7 @@ Optionally add more indexes, in particular on "objtype" fields. For faster rende
    ALTER COLUMN geom 
    TYPE Geometry(Point, 32644) 
    USING ST_Transform(geom, 32644);
-``` 
+```
 
 Replace all occurences of PostGIS connection parameters with your own:
 
@@ -69,6 +74,7 @@ Map style is made from CartoCSS in Tilemill. The raw mapnik xml file export need
 
 Step 1: replace map projection to epsg3857
 from:
+
 ```
 <Map srs="+proj=utm +zone=33 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs " maximum-extent="-20037508.34,-20037508.34,20037508.34,20037508.34">
 ```
@@ -79,6 +85,7 @@ to:
 
 Step 2: Replace postgis connection parameters:
 from:
+
 ```
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[postgres]]></Parameter>
